@@ -4,9 +4,9 @@
 ## The prototype
 **Tim Berners-Lee**, a physicist and _the inventor of HTML_, used to work in the computer section of the [CERN](https://en.wikipedia.org/wiki/CERN) (European Laboratory for Particle Physics) at Geneva, Switzerland.
 
-| ![ENQUIRE scheme screenshot](https://user-images.githubusercontent.com/50701501/93671653-bd5f1e80-fadf-11ea-86ec-dcfa662e8b27.png) |
-|:---:|
-| A screen in an ENQUIRE scheme. |
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/50701501/93671653-bd5f1e80-fadf-11ea-86ec-dcfa662e8b27.png" alt="ENQUIRE scheme screenshot">
+</p>
 
 In 1980, approximately 10,000 people were working at CERN with different hardware, software. Tim proposed and prototyped [ENQUIRE](https://en.wikipedia.org/wiki/ENQUIRE), a system for CERN researchers to use and share documents.
 <br>
@@ -57,8 +57,8 @@ The `first version of HTML` was written by _Tim Berners-Lee_ in `1993`. Since th
 
 ## XHTML
 ![Example of XHTML](https://user-images.githubusercontent.com/50701501/93671676-07e09b00-fae0-11ea-9ba3-208072734dad.jpg)
-reformulation of HTML 4.01 using XML 1.0. It is no longer being developed as a separate standard.
-Another version, **`XHTML`**, was a rewrite of HTML 4.01 using XML 1.0. `XML` is a standard markup language that is used to create other markup languages. Hundreds of XML languages are in use today, including GML (Geography Markup Language), MathML, MusicML, and RSS (Really Simple Syndication). Since each of these languages was written in a common language (XML), their content can easily be shared across applications.
+
+Another version is **`XHTML`**, was a rewrite of HTML 4.01 using XML 1.0. `XML` is a standard markup language that is used to create other markup languages. Hundreds of XML languages are in use today, including GML (Geography Markup Language), MathML, MusicML, and RSS (Really Simple Syndication). Since each of these languages was written in a common language (XML), their content can easily be shared across applications.
 <br>
 <br>
 <br>
