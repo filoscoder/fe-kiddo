@@ -13,6 +13,7 @@
 
 ---
 
+# Overview
 <br>
 This project starts with my personal need as a Frontend software engineer to go back to the basics and laying the groundwork.
 <br>
@@ -32,13 +33,14 @@ I wish anyone who is making tiny steps to become a Frontend developer or those w
 <br>
 <br>
 <br>
+
 ---
 
 ## Contributing
-The **Fe-soon** repository will be managed as an `open-source`
-
-Feel free to open an `issue` or a `pull request` to suggest changes or additions.
-
+The **Fe-soon** repository will be managed as an `open-source`. <br>
+Please feel free to open an `issue` or a `pull request` to suggest changes or additions.
+<br>
+<br>
 
 ## Support
 
@@ -46,7 +48,9 @@ If you have any question or suggestion, don't hesitate to contact me:
 
 * [sondaniel.88@gmail.com](mailto:sondaniel.88@gmail.com)
 
+<br>
+
 ## Author
 
-**[filoscoder](https://github.com/filoscoder)**
+**[@filoscoder](https://github.com/filoscoder)**
 
