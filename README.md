@@ -26,9 +26,10 @@ I wish anyone who is making tiny steps to become a Frontend developer or those w
 
 ## List
 ### 1. [HTML](https://github.com/filoscoder/fe-soon/HTML/)
-- [Brief history of HTML](https://github.com/filoscoder/fe-soon/HTML/)
-- 
-- 
+- [Brief history of HTML](https://github.com/filoscoder/fe-soon/blob/master/HTML/00-history.md)
+- [HTML Basics](https://github.com/filoscoder/fe-soon/blob/master/HTML/01-basics.md)
+- [HTML Structure](https://github.com/filoscoder/fe-soon/blob/master/HTML/02-structure.md)
+
 
 <br>
 <br>
