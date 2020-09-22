@@ -13,7 +13,7 @@
 
 ---
 
-# Overview
+# Overview 🇺🇸
 <br>
 This project starts with my personal need as a Frontend software engineer to go back to the basics and laying the groundwork.
 <br>
@@ -22,13 +22,20 @@ I name it `fe-soon`, 'Frontend soon' because I wished to have this knowledge bef
 <br>
 
 I wish anyone who is making tiny steps to become a Frontend developer or those who already are in the field, get back to the basics, and prepare once more for the next step.
+
+## Available languages
+The content is available in :
+- 🇺🇸[English](https://github.com/filoscoder/fe-soon/src/en/)
+<br>
+<br>
  
 
-## List
-### 1. [HTML](https://github.com/filoscoder/fe-soon/HTML/)
-- [Brief history of HTML](https://github.com/filoscoder/fe-soon/blob/master/HTML/00-history.md)
-- [HTML Basics](https://github.com/filoscoder/fe-soon/blob/master/HTML/01-basics.md)
-- [HTML Structure](https://github.com/filoscoder/fe-soon/blob/master/HTML/02-structure.md)
+## Contents
+### 1. [HTML](https://github.com/filoscoder/fe-soon/src/en/HTML/)
+- [00. Brief history of HTML](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/00-history.md)
+- [01. HTML Basics](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/01-basics.md)
+- [02. HTML Structure](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/02-structure.md)
+- [03. HTML Elements](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/02-structure.md)
 
 
 <br>
@@ -37,11 +44,15 @@ I wish anyone who is making tiny steps to become a Frontend developer or those w
 
 ---
 
-## Contributing
+# Contributing
 The **Fe-soon** repository will be managed as an `open-source`. <br>
 Please feel free to open an `issue` or a `pull request` to suggest changes or additions.
-<br>
-<br>
+
+For translation contributors:
+- Fork this repository
+- Open an Issue and make public your contribution plan
+- Work on your contribution
+- Open a PR and request me a review
 
 ## Support
 
