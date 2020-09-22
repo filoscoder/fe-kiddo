@@ -35,7 +35,7 @@ The `first version of HTML` was written by _Tim Berners-Lee_ in `1993`. Since th
 <br>
 <br>
 
-### Little comparisson between versions
+### 💡 Little comparisson between versions
 | Type of content | HTML 1.2 | HTML 4.01 | HTML5 |	Purpose |
 |:--:|:--:|:--:|:--:|:--:|
 | Heading |	Yes	| Yes | Yes | Organize page content by adding headings and subheadings to the top of each section of the page |
@@ -68,3 +68,11 @@ Another version is **`XHTML`**, was a rewrite of HTML 4.01 using XML 1.0. `XML` 
 ## References
 - https://en.wikipedia.org/wiki/HTML#History
 - https://www.washington.edu/accesscomputing/webd2/student/unit1/module3/html_history.html
+
+<br>
+<br>
+<br>
+<br>
+---
+
+## [➡ Next :  HTML Basics](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/01-basics.md)

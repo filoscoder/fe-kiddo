@@ -16,7 +16,7 @@ See the example
 In the example above, the `<p>` element is nested inside the `<body>` element. The `<p>` element is considered a child of the `<body>` element, and the `<body>` element is considered the parent. You can also see that we’ve added two spaces of `indentation` for better readability.
 <br>
 
-> The `indentation` is a common convention, it improves readability and helps to write better code. [Learn more](https://www.w3schools.com/html/html5_syntax.asp) <br>
+> 💡 The `indentation` is a common convention, it improves readability and helps to write better code. [Learn more](https://www.w3schools.com/html/html5_syntax.asp) <br>
 > You can use the space bar, but we recommend installing plugins or extensions from your favorite code editor (ex. Visual Studio Code)
 <br>
 
@@ -38,3 +38,11 @@ Let’s consider a more complicated example that uses some new tags:
 In this example, the `<body>` element is the parent of the `<div>` element. Both the `<h1>` and `<p>` elements are children of the `<div>` element. Because the `<h1>` and `<p>` elements are at the same level, they are considered **siblings** and are both _grandchildren_ of the `<body>` element.
 
 Understanding `HTML hierarchy` is important because child elements can _inherit_ behavior and styling from their parent element. You’ll learn more about webpage hierarchy when you start digging into CSS.
+
+<br>
+<br>
+<br>
+<br>
+---
+
+## [➡ Next :  HTML Elements](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/03-elements.md)

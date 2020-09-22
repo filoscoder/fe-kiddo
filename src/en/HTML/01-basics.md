@@ -53,7 +53,7 @@ The visible part of the HTML document is between `<body>` and `</body>`.
 </p>
 
 The `HTML element` is everything from the `start tag` to the `end tag`:
-> There are a few exceptions, _empty elements_ & _self-closing elements_ <br>
+> 💡 There are a few exceptions, _empty elements_ & _self-closing elements_ <br>
 > Get more info [here](https://clearlydecoded.com/anatomy-of-html-tag)
 
 1. `start tag`: This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect — in this case where the paragraph begins.
@@ -61,11 +61,18 @@ The `HTML element` is everything from the `start tag` to the `end tag`:
 3. `content`: This is the content of the element, which in this case, is just text.
 4. `attributes`: This provides additional information about HTML elements.
 
->
-> An attribute should always have the following:
-> - A space between it and the element name (or the previous attribute, if the element already has one or more attributes).
-> - The attribute name followed by an equal sign.
-> - The attribute value wrapped by opening and closing quotation marks.
-> [Learn more](https://www.w3schools.com/html/html_attributes.asp)
->
 
+An attribute should always have the following:
+ - A space between it and the element name (or the previous attribute, if the element already has one or more attributes).
+ - The attribute name followed by an equal sign.
+ - The attribute value wrapped by opening and closing quotation marks.
+> [Learn more](https://www.w3schools.com/html/html_attributes.asp)
+
+
+<br>
+<br>
+<br>
+<br>
+---
+
+## [➡ Next :  HTML Structure](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/02-structure.md)
