@@ -96,10 +96,20 @@ The HTML `<a>` tag defines a hyperlink. It has the following syntax:
 ```
 > 💡 dot (`.`) and a double-dot (`..`), which translate into the `current directory` and the `parent directory`.
 
+### Target
+By default, the linked page will be displayed in the current browser window. To change this, you must specify another target for the link.
+
+The target attribute can have one of the following values:
+
+- `_self`: Default. Opens the document in the same window/tab as it was clicked
+- `_blank`: Opens the document in a new window or tab
+- `_parent`: Opens the document in the parent frame
+- `_top`: Opens the document in the full body of the window
+
 <br>
 <br>
 <br>
 <br>
 ---
 
-## [➡ Next :  HTML Elements](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/03-elements.md)
+## [➡ Next :  Coming soon]()
