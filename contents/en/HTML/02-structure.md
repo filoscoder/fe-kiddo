@@ -45,4 +45,4 @@ Understanding `HTML hierarchy` is important because child elements can _inherit_
 <br>
 ---
 
-## [➡ Next :  HTML Elements](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/03-elements.md)
+## [➡ Next :  HTML Elements](https://github.com/filoscoder/fe-soon/blob/master/contents/en/HTML/03-elements.md)

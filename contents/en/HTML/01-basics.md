@@ -75,4 +75,4 @@ An attribute should always have the following:
 <br>
 ---
 
-## [➡ Next :  HTML Structure](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/02-structure.md)
+## [➡ Next :  HTML Structure](https://github.com/filoscoder/fe-soon/blob/master/contents/en/HTML/02-structure.md)
