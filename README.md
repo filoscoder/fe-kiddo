@@ -31,11 +31,11 @@ The content is available in :
  
 
 ## Contents
-### 1. [HTML](https://github.com/filoscoder/fe-soon/src/en/HTML/)
-- [00. Brief history of HTML](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/00-history.md)
-- [01. HTML Basics](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/01-basics.md)
-- [02. HTML Structure](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/02-structure.md)
-- [03. HTML Elements](https://github.com/filoscoder/fe-soon/blob/master/src/en/HTML/02-structure.md)
+### 1. [HTML](https://github.com/filoscoder/fe-soon/contents/en/HTML/)
+- [00. Brief history of HTML](https://github.com/filoscoder/fe-soon/blob/master/contents/en/HTML/00-history.md)
+- [01. HTML Basics](https://github.com/filoscoder/fe-soon/blob/master/contents/en/HTML/01-basics.md)
+- [02. HTML Structure](https://github.com/filoscoder/fe-soon/blob/master/contents/en/HTML/02-structure.md)
+- [03. HTML Elements](https://github.com/filoscoder/fe-soon/blob/master/contents/en/HTML/02-structure.md)
 
 
 <br>
@@ -48,11 +48,13 @@ The content is available in :
 The **Fe-soon** repository will be managed as an `open-source`. <br>
 Please feel free to open an `issue` or a `pull request` to suggest changes or additions.
 
-For translation contributors:
-- Fork this repository
-- Open an Issue and make public your contribution plan
+### Guide 
+- `Fork` this repository
+- Open an `Issue` and make public your contribution plan
+- Create a singular `branch` (_ex. `${userName}/${feature}`_)
 - Work on your contribution
-- Open a PR and request me a review
+- Always `fetch upstream master` before push
+- Open a PR and request me a review when you are ready
 
 ## Support
 
