@@ -1,0 +1,268 @@
+@import "reset.css";
+@import "media.css";
+
+/*English*/
+
+/*Korean*/
+@font-face {
+    font-family: 'GothicA1';
+    src: url('../fonts/GothicA1-Black.woff') format('woff');
+
+    font-family: 'SharpGrotesk';
+    src: url('../fonts/SharpGroteskUltExpBook.woff2') format('woff2'),
+    url('../fonts/SharpGroteskUltExpBook.woff') format('woff')
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+/*link styles*/
+a {
+    text-decoration: none;
+    color: white;
+    -webkit-text-stroke: 0 black;
+}
+
+/********** GLOBAL TYPOGRAPHY **********/
+
+body {
+    font-family: "SharpGrotesk", "GothicA1", sans-serif;
+    font-size: 3vw;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-transform: uppercase;
+    line-height: .8em;
+    vertical-align: text-bottom;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
+
+en {
+    color: dimgrey;
+}
+
+
+/********** INDEX **********/
+
+/*Nav*/
+.nav {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 0;
+    font-size: 0.6em;
+}
+
+.nav__column__course {
+    padding-left: 280%;
+}
+
+/*Landing-Vid*/
+
+.landing_vid_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+}
+
+
+.landing_vid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+/*Landing-Words*/
+.landing_words_container {
+    color: white;
+    position: fixed;
+    bottom: 2%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.landing_words {
+    font-size: 0.4em;
+    line-height: 97%;
+}
+
+/********** COURSE **********/
+
+.course_description {
+    padding-top: 4em;
+    width: 96%;
+    line-height: 1.2em;
+    font-size: 0.4em;
+    /*text-align: center;*/
+    /*width: 900px;*/
+    margin: 0 auto;
+    color: white;
+    padding-bottom: 1.5%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.course__vid1 {
+    width: 100%;
+}
+
+.course__vid2 {
+    width: 40%;
+}
+
+.grid_wrap {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.grid__1 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+
+.grid__2 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+
+.grid__3 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+    padding-top: 20px;
+}
+
+.grid__4 {
+    grid-column-start: 2;
+    grid-column-end: 5;
+    padding-top: 35px;
+}
+
+.grid__5 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+
+.grid__6 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    position: relative;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.grid__7 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+
+.grid__8 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+
+.grid__9 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+
+.grid__10 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+
+.grid__11 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+
+.grid__12 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+
+.grid__13 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+
+.grid__14 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+
+.grid__15 {
+    grid-column-start: 2;
+    grid-column-end: 6;
+}
+
+.grid__16 {
+    grid-column-start: 6;
+    grid-column-end: 7;
+    position: fixed;
+    width: 10%;
+    bottom: 2%;
+    right: 2%;
+}
+
+.grid__16__vid {
+    width: 8%;
+    position: fixed;
+    bottom: 2%;
+    right: 1%;
+}
+
+/********** CONTACT **********/
+
+.contact_vid_container {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact_vid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+}
+
+.contact_words_container {
+    color: white;
+    position: fixed;
+    bottom: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.contact_words {
+    font-size: 0.6em;
+    line-height: 97%;
+}
+
+@media only screen and (max-width: 375px) {
+    .grid_wrap {
+        display: block;
+    }
+
+
+    .nav {
+        padding-top: 1vh;
+        font-size: 20px;
+    }
+
+    .nav__column__course {
+        padding-left: 60%;
+    }
+
+}
