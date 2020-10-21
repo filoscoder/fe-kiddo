@@ -45,3 +45,9 @@ table {
 ::-webkit-scrollbar {
     display: none;
 }
+
+html {
+	font-size: 16px;
+	height: 100vh;
+	width: 100vw;
+}
