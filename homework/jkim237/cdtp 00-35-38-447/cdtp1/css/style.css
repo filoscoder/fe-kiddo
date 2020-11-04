@@ -54,12 +54,12 @@ en {
     background-color: black;
     padding-left: 1%;
     padding-right: 1%;
-    padding-top: 0;
+    padding-top: 1vh;
     font-size: 0.6em;
 }
 
-.nav__column__course {
-    padding-left: 280%;
+.nav__right {
+    padding-left: -30%;
 }
 
 /*Landing-Vid*/
@@ -69,13 +69,13 @@ en {
     justify-content: center;
     align-items: center;
     width: 100vw;
+    height: 80vh;
+    position: relative;
+    top: 4%;
 }
 
 
 .landing_vid {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     width: 100%;
 }
 
@@ -224,17 +224,17 @@ en {
 /********** CONTACT **********/
 
 .contact_vid_container {
-    height: 90vh;
+    height: 80vh;
+    width: 100vw;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .contact_vid {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 60%;
+    position: relative;
+    top: 4%;
+    width: 100%;
 }
 
 .contact_words_container {
@@ -248,21 +248,4 @@ en {
 .contact_words {
     font-size: 0.6em;
     line-height: 97%;
-}
-
-@media only screen and (max-width: 375px) {
-    .grid_wrap {
-        display: block;
-    }
-
-
-    .nav {
-        padding-top: 1vh;
-        font-size: 20px;
-    }
-
-    .nav__column__course {
-        padding-left: 60%;
-    }
-
 }

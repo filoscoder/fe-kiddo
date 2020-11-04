@@ -1,0 +1,198 @@
+/*핸드폰 세로*/
+@media only screen and (max-width: 419px) {
+    .nav {
+        font-size: 1.3em !important;
+        padding-top: 3% !important;
+        padding-left: 2% !important;
+        padding-right: 2% !important;
+    }
+
+    .nav__column__course {
+        padding-left: 75%;
+    }
+
+    .landing_words_container {
+        margin-left: 2% !important;
+        margin-right: 2% !important;
+        bottom: 1% !important;
+    }
+
+    .landing_words {
+        font-size: 0.7em !important;
+        line-height: 120% !important;
+    }
+
+    .grid__1, .grid__2, .grid__3, .grid__4, .grid__5, .grid__6, .grid__7, .grid__8, .grid__9, .grid__10, .grid__11, .grid__12, .grid__13, .grid__14, .grid__15 {
+        grid-column-start: 1 !important;
+        grid-column-end: 8 !important;
+    }
+
+    .course_description {
+        font-size: 1em !important;
+        line-height: 130% !important;
+    }
+
+    .contact_words {
+        font-size: 1em !important;
+        line-height: 120% !important;
+    }
+
+    .grid__16__vid {
+        width: 20% !important;
+    }
+
+}
+
+/*핸드폰 가로*/
+@media only screen and (min-width: 420px) and (max-width: 767px) {
+
+    .nav {
+        font-size: 1.3em !important;
+        padding-top: 3% !important;
+        padding-left: 2% !important;
+        padding-right: 2% !important;
+    }
+
+    .nav__column__course {
+        padding-left: 75%;
+    }
+
+    .landing_words_container {
+        margin-left: 2% !important;
+        margin-right: 2% !important;
+        bottom: 1% !important;
+    }
+
+    .landing_words {
+        font-size: 0.7em !important;
+        line-height: 120% !important;
+    }
+
+    .grid__1, .grid__2, .grid__3, .grid__4, .grid__5, .grid__6, .grid__7, .grid__8, .grid__9, .grid__10, .grid__11, .grid__12, .grid__13, .grid__14, .grid__15 {
+        grid-column-start: 1 !important;
+        grid-column-end: 8 !important;
+    }
+
+    .course_description {
+        font-size: 1em !important;
+        line-height: 130% !important;
+    }
+
+    .contact_words {
+        font-size: 1em !important;
+        line-height: 120% !important;
+    }
+
+    .grid__16__vid {
+        width: 20% !important;
+    }
+
+    
+}
+
+/*타블렛 세로*/
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+
+    .nav {
+        font-size: 1.3em !important;
+        padding-top: 3% !important;
+        padding-left: 2% !important;
+        padding-right: 2% !important;
+    }
+
+    .nav__column__course {
+        padding-left: 75%;
+    }
+
+    .landing_words_container {
+        margin-left: 2% !important;
+        margin-right: 2% !important;
+        bottom: 1% !important;
+    }
+
+    .landing_words {
+        font-size: 0.7em !important;
+        line-height: 120% !important;
+    }
+
+    .grid__1, .grid__2, .grid__3, .grid__4, .grid__5, .grid__6, .grid__7, .grid__8, .grid__9, .grid__10, .grid__11, .grid__12, .grid__13, .grid__14, .grid__15 {
+        grid-column-start: 1 !important;
+        grid-column-end: 8 !important;
+    }
+
+    .course_description {
+        font-size: 1em !important;
+        line-height: 130% !important;
+    }
+
+    .contact_words {
+        font-size: 1em !important;
+        line-height: 120% !important;
+    }
+
+    .grid__16__vid {
+        width: 20% !important;
+    }
+
+}
+
+/*랩탑+데스크 탑*/
+@media only screen and (min-width: 1024px) and (max-width: 1919px) {
+
+    .nav {
+        padding-left: 2% !important;
+        padding-right: 2% !important;
+    }
+
+    .nav__column__course {
+        padding-left: 320%;
+    }
+
+    .landing_words_container {
+        margin-left: 2% !important;
+        margin-right: 2% !important;
+        bottom: 1% !important;
+    }
+
+    .landing_words {
+        line-height: 120% !important;
+    }
+
+    .course_description {
+        line-height: 130% !important;
+    }
+
+    .contact_words {
+        line-height: 120% !important;
+    }
+
+    .grid__16__vid {
+        width: 8% !important;
+    }
+
+    .contact_vid {
+        width: 60% !important;
+    }
+
+    .landing_vid {
+        width: 60% !important;
+    }
+
+}
+
+/*큰 모니터*/
+@media only screen and (min-width: 1920px) {
+
+    .nav__column__course {
+        padding-left: 320%;
+    }
+
+    .contact_vid {
+        width: 40% !important;
+    }
+
+    .landing_vid {
+        width: 60% !important;
+    }
+
+}
