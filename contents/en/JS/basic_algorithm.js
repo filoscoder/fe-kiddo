@@ -23,22 +23,22 @@ because 1^2 + 2^2 + 2^2 = 9
 
 function sqrSum(arr) {
     // your code
+}
+console.log("2. sqrSum: ", sqrSum([1, 2, 2]));
 
-    console.log("2. sqrSum: ", sqrSum([1, 2, 2]));
+/*
+3. Write a function that returns a sequence of all the EVEN characters from a string.
+If the string is smaller than two characters or longer than 100 characters, 
+the function should return "invalid string".
+*Advance: Return the sequence with an inverted order and all capitalized.
 
-    /*
-    3. Write a function that returns a sequence of all the EVEN characters from a string.
-    If the string is smaller than two characters or longer than 100 characters, 
-    the function should return "invalid string".
-    *Advance: Return the sequence with an inverted order and all capitalized.
+For example,
+"abcdefghijklm" --> ["b", "d", "f", "h", "j", "l"]
+"a"             --> "invalid string"
+*/
 
-    For example,
-    "abcdefghijklm" --> ["b", "d", "f", "h", "j", "l"]
-    "a"             --> "invalid string"
-    */
+function onlyEvens(arg1) {
+    // your code
+}
 
-    function onlyEvens(arg1) {
-        // your code
-    }
-
-    console.log("3. onlyEvens: ", onlyEvens("abcdefghijklm"));
+console.log("3. onlyEvens: ", onlyEvens("abcdefghijklm"));
