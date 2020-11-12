@@ -20,6 +20,18 @@
 
 
 // [ 2. Variables ]
+// E5 => var; none; (hoisting)
+// ES6 => 
+// let => R/W
+// const => R only
+
+// var jk = 10; // no error
+
+// keyword declare;
+// let jk;
+// variable initialize;
+// let jk = 10;
+
 // don't ever use `var`
 // `var hoisting` (move declaration to the top)
 // has no block scope
@@ -57,17 +69,21 @@
 
 // [ 3. Operators ]
 // A. string concatenation
-// console.log('hello!' + "I'm Daniel!");
+// ES5
+// console.log('hello!' + " I'm Daniel!");
 // console.log("Im" + 32 + "yo");
 // ES6
 // let age = 32;
+// `` <== string literals
 // console.log(`hello Im ${age} yo`);
-
+// ${age} <= bash script, PHP
 
 // B. Numeric operation : +, -, /, *, %, **
 // console.log(3 ** 2); // 10^2
 
 // C. Increment & Decrement operators
+// ++
+// --
 // let counter = 1;
 // const preIncrement = ++counter; 
 
@@ -81,19 +97,62 @@
 // counter = counter + 1;
 
 // D. Asignment operators (+=, -=, /=, *=, %=, **=)
+// let age = 32;
+// age++; // age = 33
+
+// accumulation
+// age += 5; // age = age + 5
+
 // let counter = 1;
 // counter = counter - 1;
 // counter -= 1;
 
 // E. Comparisson operators (<, <=, >, >=)
+// logical operation => boolean
+// with if, else if, switch, ||, &&, !
+
 // console.log(3 < 2); // false
 // console.log(3 <= 3); // true
 
 
-// F. Logical operators: || (or), && (and), ! (not)
-// console.log(!(3 > 2) || !(4 < 2)); // true + true = true
+// F.Logical operators: || (or), && (and), !(not)
+// const permitedAge = 18;
+// let age1 = 19;
+// let age2 = 32;
+// let age3 = 10;
+// console.log((age1 > permitedAge) || (age2 < permitedAge) || (age3 > permitedAge));
+// true + true = true
 
-// G. Equality (== vs. ====, != vs. !==)
+// G.Equality( == vs. === = , != vs. !== )
+
+// loose equality => value, don't check data type 
+// let age = 32;
+// let value = '32';
+
+// ES5
+// var looseEqual = function(arg1, arg2) {
+//     console.log('called');
+//     console.log('args: ', { arg1, arg2 }); // '32'
+
+//     return arg1 == arg2; // boolean
+// };
+// ES6 (IE 11>)
+// const strictEqual = (arg1, arg2) => {
+//     console.log(typeof arg1); // 'number'
+//     console.log(typeof arg2); // 'string'
+
+//     return (arg1 == arg2) && (typeof arg1 == typeof arg2); // boolean
+// };
+
+// call => 호출
+// 호출시 parameter => 매개 변수
+// strictEqual(age, value);
+// console.log(strictEqual(age, value));
+
+// strict equality => value, checks data type 
+// const value = null;
+// console.log(null === null);
+
 // let obj = { age: 32 };
 // let obj2 = { age: 32 };
 // let obj3 = obj;
@@ -104,20 +163,24 @@
 // H. Falsy (false, 0, '', null, undefined)
 // console.log(0 == false); // true
 // console.log(0 === false); // false: 0 => number, false => boolean
-// // console.log(typeof false);
+// console.log(typeof false);
 // console.log('' == false); // true
 // console.log('' === false); // false: '' => string
 // console.log(null == undefined); // true
 // console.log(null === undefined); // false
 
+// Javascript is human readable code => convention
+// const xxxxx;
+
 // let name; // declare, initialize X => undefined;
 // let age = null; 
-// *  ===
+//  ===
 
 // [ 4. Conditional ]
-// if, else if, else
+// if, else if, else // <= styntax
+
 // let age = 17;
-// // program: sell liquor to adults only 18+
+// program: sell liquor to adults only 18+
 
 // if (age < 18) {
 //     console.log("don't sell!")
@@ -129,12 +192,11 @@
 // let age = 17;
 // if (age > 18) {
 //     console.log("sell!")
-// } 
+// } else {
 //     console.log("dont sell!")
+// }
 
 // CONDITION ? TRUE : FALSE
-
-
 // age > 18 ? 
 // console.log("sell") 
 // : 
@@ -144,10 +206,9 @@
 // B. Switch statement
 // let age = 18;
 
-// switch (age) {
-//     case (age >= 18):
-
-//         console.log("sell");
+// switch (xxx) {
+//     case (xxxx):
+//         xxxx;
 //         break;
 //     case age < 18:
 //         console.log("dont sell");
@@ -158,7 +219,13 @@
 
 
 // [ 5. Loops ]
-// while, do while
+// while (xxxx) {
+//     xxxx;
+// }
+
+// for(begin; condition; step){
+//     xxxxx;
+// }
 
 
 // while (i > 0) {
@@ -190,12 +257,19 @@
 // let arr = [1, 2, 3, 4];
 // let arr2 = [[1, 2], [3, 4]];
 // let arr2 = [{1, 2}, {3, 4}];
-let obj1 = {
-    0: "a",
-    1: "b",
-    2: "c",
-};
+// let obj1 = {
+//     0: "a",
+//     1: "b",
+//     2: "c",
+// };
 
-for (let i of obj1) {
-    console.log(i);
-};
+// for (let i of obj1) {
+//     console.log(i);
+// };
+
+
+
+// Library VS Framework
+// - Volume
+// - Who controls
+// React.JS, Angular.JS
