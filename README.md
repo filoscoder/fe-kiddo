@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/filoscoder/fe-kids">
-    <img width="230px" src="https://user-images.githubusercontent.com/50701501/103552377-1a72ba80-4eac-11eb-8249-1fd4071fe1e9.png"><br/>
+    <img width="250px" src="https://user-images.githubusercontent.com/50701501/103557547-a9370580-4eb3-11eb-9e80-2605896d6cf3.png"><br/>
   </a>
 </p>
 
