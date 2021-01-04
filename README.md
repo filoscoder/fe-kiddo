@@ -47,9 +47,9 @@ The content is available in :
 # Contributing
 The **Fe-kids** repository will be managed as an `open-source`. <br>
 Please feel free to open an `issue` or a `pull request` to suggest changes or additions.
-**Also translate contribution is very welcomed!**
+**Also translate contribution is very welcomed!** (Contact me first!)
 
-### Guide 
+## Guide 
 - `Fork` this repository (Click [here](https://github.com/filoscoder/fe-kids/fork)).
 - Open an `Issue` and make public your contribution plan (Click [here](https://github.com/filoscoder/fe-kids/issues)).
 - Create a custom `branch` (_ex. `${userName}/${feature}`_).
@@ -58,14 +58,15 @@ Please feel free to open an `issue` or a `pull request` to suggest changes or ad
 - Open a `Pull Request` (PR).
 - Link the PR to `fixed`/`resolved` Issue you worked on. (Click [here](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue) if don't know how to do this).
 - Request me as `reviewer` when you're ready.
-## Support
+## Support & Contact
 
 If you have any question or suggestion, don't hesitate to contact me:
 
-* [filoscoder.io@gmail.com](mailto:filoscoder.io@gmail.com)
+✉️ [filoscoder.io@gmail.com](mailto:filoscoder.io@gmail.com)
 
 
 ## Author & Credits
-
-**[@filoscoder](https://github.com/filoscoder)**
+<a src="https://github.com/filoscoder">
+<img width="60px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/filoscoder">
+</a>
 
