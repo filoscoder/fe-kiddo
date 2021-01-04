@@ -31,10 +31,10 @@ The content is available in :
 
 ## Contents
 ### 1. [HTML](https://github.com/filoscoder/fe-kids/contents/en/HTML/)
-- [00. Brief history of HTML](https://github.com/filoscoder/fe-kids/blob/master/contents/en/HTML/00-history.md)
-- [01. HTML Basics](https://github.com/filoscoder/fe-kids/blob/master/contents/en/HTML/01-basics.md)
-- [02. HTML Structure](https://github.com/filoscoder/fe-kids/blob/master/contents/en/HTML/02-structure.md)
-- [03. HTML Elements](https://github.com/filoscoder/fe-kids/blob/master/contents/en/HTML/02-structure.md)
+- [00. Brief history of HTML](/filoscoder/fe-kids/blob/master/contents/en/HTML/00-history.md)
+- [01. HTML Basics](/filoscoder/fe-kids/blob/master/contents/en/HTML/01-basics.md)
+- [02. HTML Structure](/filoscoder/fe-kids/blob/master/contents/en/HTML/02-structure.md)
+- [03. HTML Elements](/filoscoder/fe-kids/blob/master/contents/en/HTML/03-elements-i.md)
 
 
 <br>
@@ -49,8 +49,8 @@ Please feel free to open an `issue` or a `pull request` to suggest changes or ad
 **Also translate contribution is very welcomed!**
 
 ### Guide 
-- `Fork` this repository (Click [here](https://github.com/filoscoder/fe-kids/fork)).
-- Open an `Issue` and make public your contribution plan (Click [here](https://github.com/filoscoder/fe-kids/issues)).
+- `Fork` this repository (Click [here](/filoscoder/fe-kids/fork)).
+- Open an `Issue` and make public your contribution plan (Click [here](/filoscoder/fe-kids/issues)).
 - Create a custom `branch` (_ex. `${userName}/${feature}`_).
 - ***Work on your contribution.***
 - **Always `fetch upstream master` before push. `Pull`/ `Rebase` if is necessary.**
