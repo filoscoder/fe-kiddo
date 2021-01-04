@@ -31,10 +31,11 @@ The content is available in :
 
 ## Contents
 ### 1. [HTML](https://github.com/filoscoder/fe-kids/contents/en/HTML/)
-- [00. Brief history of HTML](/filoscoder/fe-kids/blob/master/contents/en/HTML/00-history.md)
-- [01. HTML Basics](/filoscoder/fe-kids/blob/master/contents/en/HTML/01-basics.md)
-- [02. HTML Structure](/filoscoder/fe-kids/blob/master/contents/en/HTML/02-structure.md)
-- [03. HTML Elements](/filoscoder/fe-kids/blob/master/contents/en/HTML/03-elements-i.md)
+- [00. Brief history of HTML](/contents/en/HTML/00-history.md)
+- [01. HTML Basics](/contents/en/HTML/01-basics.md)
+- [02. HTML Structure](/contents/en/HTML/02-structure.md)
+- [03. HTML Elements I](/contents/en/HTML/03-elements-i.md)
+- [04. HTML Elements II](/contents/en/HTML/04-elements-ii.md)
 
 
 <br>
@@ -49,8 +50,8 @@ Please feel free to open an `issue` or a `pull request` to suggest changes or ad
 **Also translate contribution is very welcomed!**
 
 ### Guide 
-- `Fork` this repository (Click [here](/filoscoder/fe-kids/fork)).
-- Open an `Issue` and make public your contribution plan (Click [here](/filoscoder/fe-kids/issues)).
+- `Fork` this repository (Click [here](https://github.com/filoscoder/fe-kids/fork)).
+- Open an `Issue` and make public your contribution plan (Click [here](https://github.com/filoscoder/fe-kids/issues)).
 - Create a custom `branch` (_ex. `${userName}/${feature}`_).
 - ***Work on your contribution.***
 - **Always `fetch upstream master` before push. `Pull`/ `Rebase` if is necessary.**
