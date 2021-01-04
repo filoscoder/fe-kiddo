@@ -39,10 +39,25 @@ In this example, the `<body>` element is the parent of the `<div>` element. Both
 
 Understanding `HTML hierarchy` is important because child elements can _inherit_ behavior and styling from their parent element. You’ll learn more about webpage hierarchy when you start digging into CSS.
 
+Here's a basic HTML document:
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My first HTML page!</title>
+</head>
+<body>
+  <h1>Here's some important text!</h1>
+  <div>Here's some content.</div>
+  <div>See ya later!</div>
+</body>
+</html>
+```
 <br>
 <br>
 <br>
 <br>
 ---
 
-## [➡ Next :  HTML Elements](https://github.com/filoscoder/fe-soon/blob/master/contents/en/HTML/03-elements.md)
+## [➡ Next :  HTML Elements](/03-elements.md)

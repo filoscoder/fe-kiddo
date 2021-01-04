@@ -34,8 +34,8 @@ The content is available in :
 - [00. Brief history of HTML](/contents/en/HTML/00-history.md)
 - [01. HTML Basics](/contents/en/HTML/01-basics.md)
 - [02. HTML Structure](/contents/en/HTML/02-structure.md)
-- [03. HTML Elements I](/contents/en/HTML/03-elements-i.md)
-- [04. HTML Elements II](/contents/en/HTML/04-elements-ii.md)
+- [03. HTML Elements I](/contents/en/HTML/03-elements.md)
+- [04. Emmet toolkit](/contents/en/HTML/04-emmet.md)
 
 
 <br>

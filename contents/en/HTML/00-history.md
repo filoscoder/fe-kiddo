@@ -75,4 +75,4 @@ Another version is **`XHTML`**, was a rewrite of HTML 4.01 using XML 1.0. `XML` 
 <br>
 ---
 
-## [➡ Next :  HTML Basics](https://github.com/filoscoder/fe-soon/blob/master/contents/en/HTML/01-basics.md)
+## [➡ Next :  HTML Basics](/01-basics.md)
