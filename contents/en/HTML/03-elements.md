@@ -1,4 +1,4 @@
-# HTML elements
+# HTML Basic elements
 As we already see before, HTML `elements` are defined by a start tag, some content, and an end tag.
 Let's check some of the most common HTML elements.
 
@@ -124,4 +124,4 @@ We can add images and specify their source using the `src` attribute. Another im
 <br>
 ---
 
-## [➡ Next :  Emmet](/04-emmet.md)
+## [➡ Next :  Emmet](/contents/en/HTML/04-emmet.md)

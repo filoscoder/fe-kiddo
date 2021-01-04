@@ -60,4 +60,4 @@ Here's a basic HTML document:
 <br>
 ---
 
-## [➡ Next :  HTML Elements](/03-elements.md)
+## [➡ Next :  HTML Elements](/contents/en/HTML/03-elements.md)

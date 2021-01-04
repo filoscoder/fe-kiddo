@@ -75,4 +75,4 @@ An attribute should always have the following:
 <br>
 ---
 
-## [➡ Next :  HTML Structure](/02-structure.md)
+## [➡ Next :  HTML Structure](/contents/en/HTML/02-structure.md)
