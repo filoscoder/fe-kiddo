@@ -1,36 +1,36 @@
 <p align="center">
-  <a href="https://github.com/filoscoder/fe-kids">
-    <img width="250px" src="https://user-images.githubusercontent.com/50701501/103557547-a9370580-4eb3-11eb-9e80-2605896d6cf3.png"><br/>
+  <a href="https://github.com/filoscoder/fe-kiddo">
+    <img width="250px" src="https://user-images.githubusercontent.com/50701501/103566841-05555600-4ec3-11eb-8985-8967c3f3fe61.png"><br/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://lerna.js.org/"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="Maintained with Lerna"></a>
   <a href="/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
 </p>
 
 
----
 
-# Overview 🇺🇸
+# Overview
 <br>
 This project starts with my personal need as a Frontend software engineer to go back to the basics and laying the groundwork.
 <br>
 
-I name it `fe-kids`, 'Frontend kids' because I wished to have this knowledge when I was a 'kiddo' studying for changing my career to the web development field.
+I name it `fe-kiddo`, '_Frontend kiddo_' because I wished to have this knowledge when I was a programming 'kiddo' struggling for changing my career into the web development field.
 <br>
 
-I wish anyone who is making tiny steps to become a Frontend developer or those who already are in the field, get back to the basics, and prepare once more for the next step.
+I wish anyone who is making tiny steps to become a Frontend developer or those who already are in the field, get back to the basics, and prepare once more to become a 'grown-up' developer.
+
+Wish you the best!
 
 ## Available languages
 The content is available in :
-- 🇺🇸[English](https://github.com/filoscoder/fe-kids/src/en/)
+- 🇺🇸[English](https://github.com/filoscoder/fe-kiddo/src/en/)
 <br>
 <br>
  
 
 ## Contents
-### 1. [HTML](https://github.com/filoscoder/fe-kids/contents/en/HTML/)
+### 1. [HTML](https://github.com/filoscoder/fe-kiddo/contents/en/HTML/)
 - [00. Brief history of HTML](/contents/en/HTML/00-history.md)
 - [01. HTML Basics](/contents/en/HTML/01-basics.md)
 - [02. HTML Structure](/contents/en/HTML/02-structure.md)
@@ -45,13 +45,13 @@ The content is available in :
 ---
 
 # Contributing
-The **Fe-kids** repository will be managed as an `open-source`. <br>
+The **Fe-kiddo** repository will be managed as an `open-source`. <br>
 Please feel free to open an `issue` or a `pull request` to suggest changes or additions.
 **Also translate contribution is very welcomed!** (Contact me first!)
 
 ## Guide 
-- `Fork` this repository (Click [here](https://github.com/filoscoder/fe-kids/fork)).
-- Open an `Issue` and make public your contribution plan (Click [here](https://github.com/filoscoder/fe-kids/issues)).
+- `Fork` this repository (Click [here](https://github.com/filoscoder/fe-kiddo/fork)).
+- Open an `Issue` and make public your contribution plan (Click [here](https://github.com/filoscoder/fe-kiddo/issues)).
 - Create a custom `branch` (_ex. `${userName}/${feature}`_).
 - ***Work on your contribution.***
 - **Always `fetch upstream master` before push. `Pull`/ `Rebase` if is necessary.**
