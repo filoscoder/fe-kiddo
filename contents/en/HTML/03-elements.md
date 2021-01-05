@@ -64,6 +64,13 @@ HTML lists allow web developers to group a set of related items in lists. There 
   - Define the description: `<dd>`
 
 ![스크린샷 2021-01-04 오후 6 01 00](https://user-images.githubusercontent.com/50701501/103559681-d0db9d00-4eb6-11eb-8821-68208462eff4.png)
+
+
+💡 By default, ordered lists will be numbered starting from `1`. You can change the numbering by setting the `type` attribute on the list. What do you think the ordering will look like for each of the following lists?
+
+![스크린샷 2021-01-05 오전 11 37 47](https://user-images.githubusercontent.com/50701501/103636563-7429c200-4f4a-11eb-98f9-b9a05dbfd6ad.png)
+
+
 <br>
 <br>
 
