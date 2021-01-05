@@ -148,4 +148,4 @@ Write the `one-line Emmet` commands to produce the following HTML:
 <br>
 ---
 
-## [➡ Next :  Coming soon](/contents/en/HTML/04-emmet.md)
+## [➡ Next :  Semantic HTML](/contents/en/HTML/05-semantic.md)
