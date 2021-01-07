@@ -95,15 +95,21 @@ The HTML `<a>` tag defines a hyperlink. It has the following syntax:
 ```HTML
   <a href="absolute_url | relative_url" target="where_open_link">link text</a>
 ```
+
 ### href: absolute vs relative
+
 - Absolute: Full web address
+
 ```HTML
   <a href="https://www.google.com/">Google</a>
 ```
+
 - Relative: Full web address
+
 ```HTML
   <a href="../HTML/00-history.md">CSS Tutorial</a>
 ```
+
 > 💡 dot (`.`) and a double-dot (`..`), which translate into the `current directory` and the `parent directory`.
 
 ### Target
