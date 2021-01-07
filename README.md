@@ -38,6 +38,8 @@ The content is available in :
 - [02. HTML Structure](/contents/en/HTML/02-structure.md)
 - [03. HTML Basic elements](/contents/en/HTML/03-elements.md)
 - [04. Emmet toolkit](/contents/en/HTML/04-emmet.md)
+- [05-semantic](/contents/en/HTML/05-semantic.md)
+- [06-tables-and-forms](/contents/en/HTML/06-tables-and-forms.md)
 
 
 <br>
