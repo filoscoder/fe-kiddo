@@ -24,13 +24,15 @@ Wish you the best!
 
 ## Available languages
 The content is available in :
-- 🇺🇸[English](https://github.com/filoscoder/fe-kiddo/src/en/)
+- 🇺🇸[English](/tree/master/contents/en)
 <br>
 <br>
  
 
 ## Contents
-### 1. [HTML](https://github.com/filoscoder/fe-kiddo/contents/en/HTML/)
+
+## 0. [Points I wish I knew when I started to code](/tree/master/contents/en/wish-points.md)
+### 1. [HTML](/tree/master/contents/en/HTML)
 - [00. Brief history of HTML](/contents/en/HTML/00-history.md)
 - [01. HTML Basics](/contents/en/HTML/01-basics.md)
 - [02. HTML Structure](/contents/en/HTML/02-structure.md)
