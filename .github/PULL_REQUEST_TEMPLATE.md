@@ -1,21 +1,15 @@
 ## Description
 
-_Replace this paragraph with a description of what this PR is doing. If you're modifying existing behavior, describe the existing behavior, how this PR is changing it, and what motivated the change. If you're changing visual properties, consider including before/after screenshots (and runnable code snippets to reproduce them)._
+_Describe your work_
 
 ## Related Issues
 
-_Replace this paragraph with a list of issues related to this PR from our [issue database]. Indicate, which of these issues are resolved or fixed by this PR. (ex. `#20`)_
+_resolve #20_
+_Please use the issue linking KEYWORDS_ (See [here](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) if you don't know how)
 
 ## Screenshots (if appropriate):
 
-_Replace this with a screenshot or a gif when it is needed._ 
-
-## Types of changes
-<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
-_Replace this_
-- _[ ] Bug fix (non-breaking change which fixes an issue)_
-- _[ ] New feature (non-breaking change which adds functionality)_
-- _[ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)_
+_Images_
 
 ## Checklist
 
