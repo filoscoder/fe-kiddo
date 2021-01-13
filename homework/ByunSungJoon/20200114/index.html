@@ -4,6 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>플레이팅-세프의 찾아가는 구내식당</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <!--google web font-->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    <!--fontawesome import-->
+    <script src="https://kit.fontawesome.com/4e865ce908.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <!--Header-->
@@ -19,8 +25,7 @@
             <li class="nav_list">리뷰</li>
         </div>
         <button class="inquire">
-            <img src="xxx" alt="" class="inquire">
-            <p>도입 문의하기</p>
+            <i class="fas fa-comment">도입 문의하기</i>
         </button>
     </section>
     <!--Main-->
@@ -30,27 +35,26 @@
             플레이팅
         </h1>
         <button class="main_inquire">
-            <img src="xxx" alt="" class="inquire">
-            <p>도입 문의하기</p>
+            <i class="fas fa-comment">도입 문의하기</i>
         </button>
     </section>
     <section id="companies">
-        <img src="" alt="" class="company_icon">
-        <img src="" alt="" class="company_icon">
-        <img src="" alt="" class="company_icon">
-        <img src="" alt="" class="company_icon">
-        <img src="" alt="" class="company_icon">
-        <img src="" alt="" class="company_icon">
+        <img src="../img/icon-airbnb-non.jpg" alt="airbnb" class="company_icon">
+        <img src="../img/icon-krafton-non.jpg" alt="krafton" class="company_icon">
+        <img src="../img/icon-todayhome-non.jpg" alt="오늘의집" class="company_icon">
+        <img src="../img/icon-toss-non.jpg" alt="toss" class="company_icon">
+        <img src="../img/icon-hanwha-non.jpg" alt="한화시스템" class="company_icon">
+        <img src="../img/icon-hanwha-non.jpg" alt="이지스자산운용" class="company_icon">
     </section>
     <section id="plating">
         <h3 class="common_titile">palting</h3>
-        <h2 class="plating_contents">
+        <h1 class="plating_contents">
             플레이팅은
             <p>바쁜 직장인들을 위해<br/>
             셰프들이 직접 만든 훌륭한 음식을<br/>
             제공하는 푸드테크 기없입니다
             </p>
-        </h2>
+        </h1>
     </section>
     <section id="service">
         <h3 class="common_titile">palting</h3>
@@ -60,26 +64,150 @@
         </h3>
         <div class="service_contents">
             <div class="service_content">
-                <img src="" alt="" class="service">
+                <img src="../img/icon-service-1.svg" alt="service-img1" class="service">
                 <p>매일 아침, 셰프들이 정성스럽게 요리합니다.</p>
             </div>
             <div class="service_content">
-                <img src="" alt="" class="service">
+                <img src="../img/icon-service-2.svg" alt="service-img2" class="service">
                 <p>정해진 시간에 정확하게 배송합니다.</p>
             </div>
             <div class="service_content">
-                <img src="" alt="" class="service">
+                <img src="../img/icon-service-3.svg" alt="service-img3" class="service">
                 <p>따뜻하게 드실 수 있도록 정성스럽게 차립니다.</p>
             </div>
             <div class="service_content">
-                <img src="" alt="" class="service">
+                <img src="../img/icon-service-4.svg" alt="service-img4" class="service">
                 <p>사내에서 편하게 맛있는 식사를 즐기세요.</p>
             </div>
             <div class="service_content">
-                <img src="" alt="" class="service">
+                <img src="../img/icon-service-5.svg" alt="service-img5" class="service">
                 <p>식사가 끝나고 깔끔하게 수거합니다.</p>
             </div>
         </div>
     </section>
+    <section id="merit">
+        <h3 class="common_titile">palting</h3>
+        <h1 class="merit_titile">
+            주요 장점
+        </h1>
+        <div class="merit">
+            <img src="../img/icon-merit-1.svg" alt="merit-1">
+            <h3>점심시간 절약</h3>
+            <p>
+                식사 시간을 단춤함으로써<br/>
+                다른시간에 투자가 가능해집니다.
+            </p>
+        </div>
+        <div class="merit">
+            <img src="../img/icon-merit-2.svg" alt="merit-1">
+            <h3>질 높은 식사 가능</h3>
+            <p>
+                까다로운 식재료 관리와 셰프가 만든<br/>
+                음식은 직원 식사 만족도를 높입니다.
+            </p>
+        </div>
+        <div class="merit">
+            <img src="../img/icon-merit-3.svg" alt="merit-1">
+            <h3>기업 복지문화</h3>
+            <p>좋은 문화는 임직원 사기 증진에
+                <br/>중요한 역할을 합니다.
+            </p>
+        </div>
+        <div class="merit">
+            <img src="../img/icon-merit-4.svg" alt="merit-1">
+            <h3>식사 주문 관리</h3>
+            <p>
+                관리자 페이지를 통해 직원 개인 별<br/>
+                식사 주문 데이터 확보가 가능해져<br/>
+                관리가 편리합니다.
+            </p>
+        </div>
+        <div class="merit">
+            <img src="../img/icon-merit-5.svg" alt="merit-1">
+            <h3>초기 투자비용 X</h3>
+            <p>
+                초기 투자비용 없이 구내식당 도입이<br/>
+                가능합니다.
+            </p>
+        </div>
+        <div class="merit">
+            <img src="../img/icon-merit-6.svg" alt="merit-1">
+            <h3>기업 환경 최적화</h3>
+            <p>
+                기업 니즈에 최적화된 맞춤형 솔루션<br/>
+                제공이 가능합니다.
+            </p>
+        </div>
+    </section>
+    <section id="plan">
+        <h3 class="common_titile">palting</h3>
+        <h1 class="plan_titile">
+            식사 플랜
+            <p>플레이팅에서 제공하는 3가지 서비스 입니다.</p>
+        </h1>
+        <article class="card_first">
+            <img src="../img/photo-plan-1.jpg" alt="plan-1">
+            <h4>조식 서비스</h4>
+            <p>
+                플레이팅과 함께 아침을 맞이하세요.<br/> 
+                신선한 샐러드와 따뜻한 죽, 브런치<br/> 
+                메뉴까지! 셰프가 만든 다양한 조식<br/>
+                메뉴를 경험할 수 있어요.
+            </p>
+        </article>
+        <article class="card_second">
+            <img src="../img/photo-plan-2.jpg" alt="plan-1">
+            <h4>점심 서비스</h4>
+            <p>
+                더 이상 엘리베이터, 식당에서 줄<br/> 
+                서지 마세요. 셰프가 직접 조리한 약<br/> 
+                400가지 메뉴의 식사를 즐긱고 남는<br/>
+                시간을 자유롭게 활용할 수 있어요.
+            </p>
+        </article>
+        <article class="card_third">
+            <img src="../img/photo-plan-3.jpg" alt="plan-1">
+            <h4>특별 이벤트</h4>
+            <p>
+                추석, 할로윈, 회사 기념일 등 컨셉에<br/> 
+                맞는 "Special Day"를 운영합니다. 
+            </p>
+        </article>
+        <button class="more">
+            <i class="fas fa-comment">서비스 더 알아보기</i>
+        </button>
+    </section>
+    <section id="review">
+        <h3 class="common_titile">palting</h3>
+        <h1 class="review_titile">
+            식사 플랜
+            <p>플레이팅에서 제공하는 3가지 서비스 입니다.</p>
+        </h1>
+        <i class="fas fa-chevron-left"></i>
+        <img src="../img/icon-airbnb-review.png" alt="" class="review_img">
+        <i class="fas fa-chevron-right"></i>
+        <article class="review_content">
+        <div class="content">
+            "어떤 글로벌 오피스보다 자랑스러운 한국의<br/>
+             food program으로 칭찬을 받고 있습니다."
+        </div> 
+        <div class="content_writer">
+            컬쳐팀 C 매니저
+        </div>
+        </article>
+    </section>
+    <section class="ending">
+        <div class="ending_content">
+            플레이팅은 <p>"바쁜 당신을 위한 특별한 한끼"</p>를 추구하며, 완벽한 고객 경험을 위해<br/>
+            식재료 소싱, 메뉴개발, 조리, 배송까지 모두 직접 진행하고 있습니다.
+        </div>
+    </section>
+    <footer>
+        <i class="fab fa-instagram"></i>
+        <i class="fab fa-facebook-square"></i>
+        <div class="company_name">
+            (주) 커틀러리
+        </div>
+    </footer>
 </body>
 </html>
