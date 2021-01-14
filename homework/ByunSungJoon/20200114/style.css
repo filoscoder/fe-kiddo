@@ -59,7 +59,19 @@ body {
 }
 
 /*Main*/
+@media (max-width: 300px) {
+  .main_wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
 
+  .main_titile {
+    font-size: 30px;
+  }
+
+}
 #main {
   height: 1060px;
   background-image: url(../img/photo-background-1.jpg);
